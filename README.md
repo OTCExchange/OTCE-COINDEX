@@ -1,2 +1,3 @@
-# CoinTrader
-The OTC trading platform empowers OTC traders by providing the latest features in a complete Direct Access trading application.Dynamic streaming quotes, charts and level 2 are just some of the features OTCE Trading / CoinTrader will offer.
+# OTC CoinTrader
+The OTC Trading Platform allows trading cryptocurrency coins without a counterparty risk.  The protocol is open-source and trading is available for any coin that any developers choose to connect to The BarterDEX. Trading DApp live trading data provided by OTC Coindex Https://otcexchange.trade
+
