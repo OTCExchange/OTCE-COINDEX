@@ -19,5 +19,7 @@ With OTC Coindex you can identify promising and trending cryptocurrencies. The f
 • Image logos are provided for each cryptocurrency.
 • All modern browsers and devices are supported.
 
-The OTC Trading Platform allows trading cryptocurrency coins without a counterparty risk.  The protocol is open-source and trading is available for any coin that any developers choose to connect to The OTC Coindex. Trading DApp live trading data provided by OTC Coindex Https://otcexchange.trade
+# OTC COINDEX TRADING
+
+The OTC Coindex Trading Platform allows trading cryptocurrency coins without a counterparty risk.  The protocol is open-source and trading is available for any coin that any developers choose to connect to The OTC Coindex. Trading DApp live trading data provided by OTC Coindex Https://otcexchange.trade
 
