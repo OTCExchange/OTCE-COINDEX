@@ -25,4 +25,4 @@ The OTC Coindex Trading Platform allows trading cryptocurrency coins without a c
 
 ![Alt text](https://github.com/OTCExchange/OTCE-COINDEX/blob/master/coindex-slide-one.jpg?raw=true "OTC Coindex Screenshot Main Window")
 
-![Alt text](https://github.com/OTCExchange/OTCE-COINDEX/blob/master/coindex-slide-two.jpg?raw=true "OTC Coindex Screenshot Main Window")
+![Alt text](https://github.com/OTCExchange/OTCE-COINDEX/blob/master/coindex-slide-two.jpg?raw=true "OTC Coindex Screenshot Coin Detail Window")
