@@ -1,4 +1,4 @@
-# OTC Coindex - Https://otcexchange.trade
+# OTC Coindex V2 - Https://otcexchange.trade
 
 OTC Coindex is an premium web application, which allows your visitors to track the latest Crypto trends, view information, live streaming quotes and interactive historical charts and analysis for more than 2,300 cryptocurrencies and monitor all markets streaming in real time.
 With OTC Coindex you can identify promising and trending cryptocurrencies. The following data fields are available for each altcoin:
@@ -9,7 +9,7 @@ With OTC Coindex you can identify promising and trending cryptocurrencies. The f
 • Market Capitalization
 • Circulating and Total Supply
 
-# OTC COINDEX FEATURES
+# OTC COINDEX V2 FEATURES
 
 • More than 2,300 cryptocurrencies are supported, including but not limited to Bitcoin, Ether, Litecoin, Monero, Ripple, Dogecoin, Dash, Zcash, Waves.
 • Cryptocurrency quotes are updated in real-time as new market data is available.
@@ -19,7 +19,7 @@ With OTC Coindex you can identify promising and trending cryptocurrencies. The f
 • Image logos are provided for each cryptocurrency.
 • All modern browsers and devices are supported.
 
-# OTC COINDEX TRADING
+# OTC COINDEX V2 TRADING
 
 The OTC Coindex Trading Platform allows trading cryptocurrency coins without a counterparty risk.  The protocol is open-source and trading is available for any coin that any developers choose to connect to The OTC Coindex. Trading DApp live trading data provided by OTC Coindex Https://otcexchange.trade
 
