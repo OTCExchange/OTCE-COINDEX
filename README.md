@@ -4,6 +4,8 @@ Monitor 2,500+ cryptocurrencies. Get advanced alerts based on Buy, Sell, Volume 
 
 Coindex is an interactive platform where you can analyze the latest Crypto trends and monitor all markets streaming in real time. View the latest Cryptocurrency price with our interactive and live price chart including market capitalization. Monitor the latest prices of 2,500+ crypto-currencies on over 80 exchanges from all around the world. Track crypto currency value with automatic price tracker. Make cryptocurrency trading easy and profitable.
 
+![Alt text](https://github.com/OTCExchange/OTCE-COINDEX/blob/master/coindex-slide-three.png?raw=true "OTC Coindex Screenshot Main Window")
+
 # OTC Coindex V2 - Https://otcexchange.trade
 
 OTC Coindex is an premium web application, which allows your visitors to track the latest Crypto trends, view information, live streaming quotes and interactive historical charts and analysis for more than 2,300 cryptocurrencies and monitor all markets streaming in real time.
