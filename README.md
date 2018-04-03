@@ -1,4 +1,4 @@
-# OTC Coindex V1 - Https://coindex.otcexchange.net
+# OTC Coindex V1 - Https://coins.otcexchange.net
 
 Monitor 2,500+ cryptocurrencies. Get advanced alerts based on Buy, Sell, Volume and more. (Lite Version)
 
