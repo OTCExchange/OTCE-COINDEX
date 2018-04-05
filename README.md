@@ -9,7 +9,7 @@ Coindex V1 is an interactive platform where you can analyze the latest Crypto tr
 # OTC Coindex V2 - Https://trade.otcexchange.net
 
 OTC Coindex V2 is an premium web application, which allows your visitors to track the latest Crypto trends, view information, live streaming quotes and interactive historical charts and analysis for more than 2,300 cryptocurrencies and monitor all markets streaming in real time.
-With OTC Coindex you can identify promising and trending cryptocurrencies. The following data fields are available for each altcoin:
+With Coindex V2 you can identify promising and trending cryptocurrencies. The following data fields are available for each altcoin:
 
 • Hourly, Daily and Weekly Price and % Change
 • 24 hour Price, % Change, Trade Volume in currency and coins
@@ -29,7 +29,7 @@ With OTC Coindex you can identify promising and trending cryptocurrencies. The f
 
 # OTC COINDEX V2 TRADING
 
-The OTC Coindex Trading Platform allows trading cryptocurrency coins without a counterparty risk.  The protocol is open-source and trading is available for any coin that any developers choose to connect to The OTC Coindex. Trading DApp live trading data provided by OTC Coindex Https://trade.otcexchange.net
+The Coindex V2 Trading Platform allows trading cryptocurrency coins without a counterparty risk.  The protocol is open-source and trading is available for any coin that any developers choose to connect to The OTC Coindex. Trading DApp live trading data provided by OTC Coindex Https://trade.otcexchange.net
 
 ![Alt text](https://github.com/OTCExchange/OTCE-COINDEX/blob/master/coindex-slide-one.jpg?raw=true "OTC Coindex Screenshot Main Window")
 
